@@ -4,7 +4,7 @@
 ## First view
 ![chat2](https://user-images.githubusercontent.com/76623158/210593085-e500ebc1-d49f-47c2-9a72-c28a88470ad0.jpg)
 
-## Chats
+## Bothe Users enters their names in the alert prompt and the communication line begins.
 ![chat1](https://user-images.githubusercontent.com/76623158/210593098-386ffec3-5dbc-4fc4-ba28-9b1016b519f3.jpg)
 
 ### And thats all for it 🏆
