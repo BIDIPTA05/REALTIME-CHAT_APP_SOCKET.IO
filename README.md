@@ -2,9 +2,9 @@
 ## Here I used Node JS and Socket.IO to established client-server 2 way communication. Client and Server both can communicat with each other seamlessly.
 
 ## First view
-![chat1](https://user-images.githubusercontent.com/76623158/210592859-23c7e5a8-1015-4e7c-b5c1-ae4b2d3056b9.jpg)
+![chat2](https://user-images.githubusercontent.com/76623158/210593085-e500ebc1-d49f-47c2-9a72-c28a88470ad0.jpg)
 
 ## Chats
-![chat2](https://user-images.githubusercontent.com/76623158/210592891-b5e48a9b-a287-4a67-8af0-acb11d0787ad.jpg)
+![chat1](https://user-images.githubusercontent.com/76623158/210593098-386ffec3-5dbc-4fc4-ba28-9b1016b519f3.jpg)
 
 ### And thats all for it 🏆
